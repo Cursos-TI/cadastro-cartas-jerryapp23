@@ -35,8 +35,6 @@ int main() {
     printf("Digite o PIB (em R$ milhões): \n");
     scanf("%f", &pib1);
     
-    printf("==================================\n");
-
     printf("\n");
 
     // Entrada de dados CARTA 2
@@ -89,4 +87,5 @@ int main() {
     printf("\n---------------------------------------\n");
 
     return 0;
+
 }
